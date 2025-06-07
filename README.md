@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Oorakathan
 
-I'm not your typical dev.  
-I don't code everything — I build the **logic** behind things.  
-I create small, working systems powered by **AI prompting**, **deep learning**, and **smart scripts** — tools that solve real problems.
+- I'm not your typical dev.
+- I don't code everything — I build the **logic** behind things.
+- I create small, working systems that **solve** real problems.
+- I’m learning everything, not to master, but to **connect**.
+- This is not the path of a developer. This is the path of a **creator**.
 
 ---
 
@@ -17,10 +19,12 @@ I create small, working systems powered by **AI prompting**, **deep learning**, 
 
 ## 🚧 What I'm Building
 
-| Project                                                           | Description                                                         |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Logic Lab 🔗](https://github.com/oorakathan/logic-lab)           | A collection of practical micro-projects in DL, Scripting, and more |
-| [Resume Scanner 🔗](https://github.com/oorakathan/resume-scanner) | An AI-based tool that scans resumes and predicts job matches        |
+| Project                                                                            | Description                                                            |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Endoscopic Anatomical Locator 🔗](https://oorakathan.github.io) (HTIC Internship) | Deep learning model to detect anatomy regions in endoscopy video feeds |
+| [Smart Traffic Signal AI 🔗](https://oorakathan.github.io)                         | An AI-powered system to optimize real-time traffic signal control      |
+| [Resume Scanner 🔗](https://oorakathan.github.io)                                  | An AI-based tool that scans resumes and predicts job matches           |
+| [Logic Lab 🔗](https://oorakathan.github.io)                                       | A collection of practical micro-projects in DL, Scripting, and more    |
 
 _(More coming soon...)_
 
@@ -28,8 +32,7 @@ _(More coming soon...)_
 
 ## 🧰 Tech Stack
 
-Deep Learning • Python • Pandas • NumPy • ESP32 (IoT) • GitHub • Prompt Engineering  
-AI-Assisted Development • Google Colab • Streamlit • Jupyter • Automation Scripts
+🤖 AI/ML • 📊 Data Analysis • 🔥 PyTorch • 🤗 Hugging Face • 🐍 Python • 📄 Pandas • 🔢 NumPy • 🌐 HTML/CSS/JS • ⚙️ Scripting • 🐧 Debian • 🧰 PC Fixing
 
 ---
 
@@ -37,7 +40,8 @@ AI-Assisted Development • Google Colab • Streamlit • Jupyter • Automatio
 
 - Email: [oorakathanr@gmail.com](mailto:oorakathanr@gmail.com)
 - Projects: [github.com/oorakathan](https://github.com/oorakathan)
-- Coming soon: Portfolio site and Logic Lab.
+- Portfolio: [oorakathan.github.io](https://oorakathan.github.io)
+- Coming soon: Logic Lab.
 
 ---
 
